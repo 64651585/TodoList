@@ -1,24 +1,5 @@
-# README
+# Todo List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicativo feito com Ruby on Rails e React, utilizado para gerenciamento de tarefas.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Captura de tela de 2021-05-02 01-37-18](https://user-images.githubusercontent.com/59586689/116825459-d647ac00-ab65-11eb-98b5-3364c9e33497.png)
